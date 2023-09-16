@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RATSILEFITRA christo
+- 👋 Hi, I’m @RATSILEFITRA Christo
 - 👀 "I am a student in Electronics, Computer Systems, and Artificial Intelligence.
 - 🌟Interested in system and network administration, and in programming.
 <!---
